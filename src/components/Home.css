@@ -1,0 +1,7 @@
+.Man-content {
+  justify-content: space-around;
+};
+
+.Show-product {
+  display: flex;
+}
